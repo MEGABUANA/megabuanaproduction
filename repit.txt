@@ -1,0 +1,14 @@
+# Nama Proyek
+Deskripsi singkat tentang proyek ini.
+
+## Instalasi
+Langkah-langkah untuk menginstal proyek ini di komputer Anda.
+
+## Cara Penggunaan
+Contoh cara menjalankan atau menggunakan proyek ini.
+
+## Contributing
+Panduan bagi siapa saja yang ingin berkontribusi ke proyek ini.
+
+## Lisensi
+Lisensi proyek ini adalah [MIT](https://opensource.org/licenses/MIT).
